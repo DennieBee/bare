@@ -18,4 +18,3 @@ const routes: RouteDefinition = {
 
 let router: Router = window.$container.resolve("router");
 router.routes = routes;
-
