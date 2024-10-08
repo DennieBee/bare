@@ -1,5 +1,8 @@
 # Bare - A frameworkless modern web app experiment
 
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hendriknielaender/http2.zig/blob/HEAD/LICENSE)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/denniebee/bare)
+
 This project is an experiment in building a modern web application **without using any JavaScript framework** (such as React, Vue, or Angular). The goal is to leverage modern browser APIs, ES modules, and web components to create a performant and maintainable web application using only TypeScript, HTML, and CSS.
 
 ## Getting Started
